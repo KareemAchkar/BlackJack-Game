@@ -1,0 +1,36 @@
+{
+  "aE8j3uff8y": {
+    "game": {
+      "winner": [
+        {
+          "value": "Ace",
+          "suit": "Diamonds"
+        },
+        {
+          "value": "4",
+          "suit": "Clubs"
+        }
+      ]
+    },
+    "date": "2024-05-12T12:57:12.081Z"
+  },
+  "Ih8PjNLgC0": {
+    "game": {
+      "winner": [
+        {
+          "value": "9",
+          "suit": "Clubs"
+        },
+        {
+          "value": "3",
+          "suit": "Diamonds"
+        },
+        {
+          "value": "Ace",
+          "suit": "Diamonds"
+        }
+      ]
+    },
+    "date": "2024-05-12T12:57:52.370Z"
+  }
+}
